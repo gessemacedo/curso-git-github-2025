@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esse arquivo contém comandos secundários
+=======
+esse arquivo contém comandos secundários.
+>>>>>>> secundaria
