@@ -6,6 +6,9 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 Confira tudo o que temos no nosso YouTube. É gratis!
 
+[Curso Git 2025](http://youtube.com/@teomewhy)
+
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
