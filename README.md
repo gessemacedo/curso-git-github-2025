@@ -8,6 +8,10 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 [Curso Git 2025](http://youtube.com/@teomewhy)
 
+Além do nosso Youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
+
+[teomewhy.org](https://teomewhy.org/scheldule)
+
 
 ## Fluxo de trabalho Git local
 
